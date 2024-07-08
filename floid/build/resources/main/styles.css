@@ -1,0 +1,54 @@
+/* styles.css */
+
+.startbtn {
+    -fx-background-color: #3498db; /* Blue background */
+    -fx-text-fill: white; /* White text color */
+}
+
+.pausebtn {
+    -fx-background-color: #e74c3c; /* Red background */
+    -fx-text-fill: white; /* White text color */
+}
+
+/* Define styles for other buttons within the group */
+
+.label-b {
+    -fx-font-family: 'Courier New';
+    -fx-font-color: grey;
+    -fx-padding: 5px 12px;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+
+.label-r {
+    -fx-font-family: 'Courier New';
+    -fx-font-color: grey;
+    -fx-padding: 5px 12px;
+    -fx-border-color: red;
+    -fx-border-width: 2;
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+.label-v {
+    -fx-font-family: 'Courier New';
+    -fx-font-color: grey;
+    -fx-padding: 5px 12px;
+    -fx-border-color: violet;
+    -fx-border-width: 2;
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+}
+
+.buttons {
+    -fx-font-family: 'Courier New';
+    -fx-font-color: grey;
+    -fx-padding: 5px 12px;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-background-color: white;
+}
